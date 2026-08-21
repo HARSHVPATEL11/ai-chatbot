@@ -236,7 +236,7 @@ function App() {
       // =========================
 
       const response = await fetch(
-        "https://ai-chatbot-kwv1.onrender.com/chat",
+        "https://ai-chatbot-backend-umbg.onrender.com/chat"
         {
           method: "POST",
 
