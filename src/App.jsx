@@ -236,7 +236,7 @@ function App() {
       // =========================
 
       const response = await fetch(
-        "http://localhost:5000/chat",
+        "https://ai-chatbot-kwv1.onrender.com/chat",
         {
           method: "POST",
 
